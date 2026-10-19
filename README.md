@@ -528,6 +528,7 @@ A curated list of useful websites you can use directly from your browser: no dow
 - [DanoSongs](https://danosongs.com/): Repository of free music downloads for personal projects
 - [Vocal Remover](https://vocalremover.org/): AI-powered tool for removing vocals from songs and tracks
 - [Lalal.ai](https://www.lalal.ai/): Advanced stem separation tool for isolating vocals from instruments
+- [Vocal Separator](https://vocalseparator.com/): Online vocal/instrumental and four-stem separation with WAV downloads and a limited anonymous free allowance
 - [NCS](https://ncs.io/): No Copyright Sounds library for content creators and streamers
 - [AudioToolset](https://audiotoolset.com): Comprehensive suite of online audio editing and processing tools
 - [GetWoord](https://www.getwoord.com/): Text-to-speech converter for generating audio from written content
